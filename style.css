@@ -107,7 +107,7 @@ button {
 h3 {
  color: #1F2937;
  margin: 50px;
- margin-top: -40px;
+ /* margin-top: -40px; */
  font-weight: 800;
  font-size: 36px
 }
